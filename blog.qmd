@@ -1,0 +1,14 @@
+---
+title: "Blog do Rio dos Estudantes"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+**Aqui você encontra discussões acerca das oficinas e de seus resultados**

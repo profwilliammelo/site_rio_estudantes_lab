@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rio dos Estudantes Lab | Dados e resultados"
+  navbar:
+    background: "orange"
+    left:
+      - href: home.qmd
+        text: Início
+      - href: about.qmd
+        text: Sobre
+      - href: blog.qmd
+        text: Blog
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+

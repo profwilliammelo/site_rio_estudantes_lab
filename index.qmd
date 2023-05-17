@@ -1,0 +1,22 @@
+---
+title: "Resultados gerais das oficinas"
+execute:
+  echo: false
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+::: {style="color: blue"}
+# Resultados gerais das oficinas
+:::
+:::
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+library(leaflet)
+
+leaflet::leaflet()
+
+
+```
